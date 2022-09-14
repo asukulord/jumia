@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+.container{
+    background-color: white;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    padding-bottom: 20px;
+    margin: 10px;
+    padding: 10px;
+    position: absolute;
+}
+#side{
+    color: blue;
+    margin: 20px;
+    /* padding: 10px; */
+}
+.text{
+    height: 100%;
+    /* justify-content: spac; */
+    margin-bottom: 20px;
+
+}
+.uil-star{
+    color: orange;
+    background-color: orange transparent;
+    fill: orange;
+}
+.text h3{
+    margin: 20px 0px 20px 0px;
+}
+.delivery{
+    background-color: orangered;
+    border-radius: 2px;
+    width: 20%;
+    color: white;
+    font-size: 15px;
+}
+#fade{
+    background-color: rgba(255, 166, 0, 0.445);
+}
+.ajah{
+    margin-bottom: 20px;
+}
+.cart{
+    background-color: orangered;
+    width: 100%;
+    /* align-content: center; */
+    border: none;
+    height: 30px;
+    color: white;
+    box-shadow: 20px;
+    border-radius: 2px;
+}
+#cart{
+    position: relative;
+    text-align: left;
+    align-items: flex-start;
+    left: 0;
+    background-color: transparent;
+    color: white;
+}
+.sideline{
+    color: blue;
+}
+.last{
+    margin: 10px;
+    margin-bottom: 10px;
+}
+.last h2{
+    margin-bottom: 20px;
+}
+#ex{
+    color: orangered;
+}
+.last h4{
+    font-size: larger;
+    margin-bottom: 20px;
+}
+#list{
+    width: 100%;
+    margin: 5px;
+    height: 30px;
+    border-radius: 2px;
+}
